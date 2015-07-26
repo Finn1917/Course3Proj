@@ -15,7 +15,7 @@ act_id = the id corresponding to the act_descr describe above
 The remaing fields are as follows (descriptions would have been nice, but I'm running out of time :) )
 
 In general though, the fields represent the means and stadard deviations of various 
-experiments capture 3-axial linear acceleration and 3-axial angular velocity
+experiment to capture 3-axial linear acceleration and 3-axial angular velocity
 
 
 1 tBodyAcc-mean()-X	
