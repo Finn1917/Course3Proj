@@ -46,6 +46,7 @@ correspond to the fields extracted in Step 2.
 
 Step 5
 
-Using the melt and dcast operation, the data is then summarized by activity and subject.
+Using the melt and dcast operation, the data is then summarized by activity and subject. The resulgin file is written to a
+a simple text file. The output can be read back into R using read.table alond with headers = TRUE.
 
 
