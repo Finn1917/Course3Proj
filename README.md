@@ -35,9 +35,17 @@ thorugh the select function.
 
 Step 3
 
+Activity labels are assigned and added to the main table using the merge function. Using the activity id number as the 
+matching index for the merge operation
+
+
+Step 4
+
 The data fields are assigned descriptive names from the feature file using a for loop and picking the field names that 
 correspond to the fields extracted in Step 2.
 
+Step 5
 
+Using the melt and dcast operation, the data is then summarized by activity and subject.
 
 
