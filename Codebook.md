@@ -15,7 +15,8 @@ act_id = the id corresponding to the act_descr describe above
 The remaing fields are as follows (descriptions would have been nice, but I'm running out of time :) )
 
 In general though, the fields represent the means and stadard deviations of various 
-experiment to capture 3-axial linear acceleration and 3-axial angular velocity
+measurements of 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.
+Additional detail is available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 1 tBodyAcc-mean()-X	
